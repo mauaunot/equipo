@@ -1,3 +1,2 @@
 primera linea SIN conflicto
-segunda linea CON conflicto
 tercera linea SIN conflicto
